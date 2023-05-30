@@ -2,12 +2,12 @@ body {
 	font-family: 'Poppins', sans-serif;
 	max-width: 1280px;
 	margin: 0 auto;
-	background-color: #5e5b5bad;
-	color: #333333;
+	background-color: #5590c4;
+	color: #ffffff;
 }
 
 body.modo-escuro {
-	background-color: #212121;
+	background-color: #0a375f;
 	color: #ffffff;
 }
 
